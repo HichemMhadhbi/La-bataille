@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1723119565 source:c:\users\hichem\desktop\exercices langage c\franceioi niv2\3.5. la bataille\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
